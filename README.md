@@ -39,12 +39,12 @@ Overall Delinquency Rate: 6.06%
 🛠️ Implementation Steps
 1. Data Preparation
 📄 CSV files used:
-credit_card.csv
-cust_add.csv
-customer.csv
-cc_add
-
-Imported data into SQL Database:
+   credit_card.csv
+   cust_add.csv
+   customer.csv
+   cc_add
+ 
+2. Imported data into SQL Database:
 Prepare CSV files.
 Create tables in SQL.
 Import CSV files into SQL for querying.
